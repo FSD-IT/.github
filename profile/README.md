@@ -1,7 +1,7 @@
 ## Hi there 👋:
 
 # 💫 About:
-🔭 We currently working on: Advanced software solutions tailored to the evolving needs of our clients.<br><br>👯 We looking to collaborate on: Cutting-edge projects that challenge the limits of technology.<br><br>🤝 We looking for help with: Expanding our developer community and exploring uncharted areas of software development.<br><br>🌱 We currently learning: The latest trends in AI, machine learning, and cloud computing to ensure we remain at the forefront of technological advancement.<br><br>💬 Ask us about: Our recent projects, how we're driving innovation in the tech industry, or our team's mission and values.<br><br>⚡ Fun fact: Despite our deep focus on technology, our team also has a shared passion for board games and coffee!
+🔭 We currently working on: Advanced software solutions tailored to the evolving needs of our clients.<br><br>👯 We looking to collaborate on: Cutting-edge projects that challenge the limits of technology.<br><br>🤝 We looking for help with: Expanding our developer community and exploring uncharted areas of software development.<br><br>🌱 We currently learning: The latest trends in AI, machine learning, and cloud computing to ensure we remain at the forefront of technological advancement.<br><br>💬 Ask us about: Our recent projects, how we're driving innovation in the tech industry, or our team's mission and values.<br><br>⚡ Fun fact: Despite our deep focus on technology, our team also has a shared passion for board games and coffee!😉
 
 
 # 💻 Tech Stack:
